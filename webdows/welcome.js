@@ -6,7 +6,7 @@ Date: 03/20/16
 File: webdows/welcome.js
 */
 new explorer.window()
-.title('Welcome to Webdows')
+.title('Welcome to PenguinOS Alpha')
 .resize(570, 300)
 .center()
 .icon('webdows/resources/icons/logo.png')
